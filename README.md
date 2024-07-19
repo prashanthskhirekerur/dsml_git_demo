@@ -1,2 +1,2 @@
 # dsml_git_demo
- Demonastrate creation of git.
+ Demonastrate creation of git.and github.
